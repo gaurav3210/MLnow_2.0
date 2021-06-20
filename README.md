@@ -25,7 +25,7 @@ $ git push -u origin <branch-name>
 
 ### Reach out
 
-[@shivanishimpi:](https://github.com/gaurav3210)
+[@gauravsrivastava:](https://github.com/gaurav3210)
 [![LinkedIn][1.1]][1]
 
 [1.1]: https://user-images.githubusercontent.com/26264600/88994287-99226500-d31a-11ea-9a80-a91afd654777.png
