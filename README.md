@@ -27,6 +27,6 @@ $ git push -u origin <branch-name>
 
 [@gauravsrivastava:](https://github.com/gaurav3210)
 
- https://www.linkedin.com/in/gauravsrivastava321/
+LinkedinID: https://www.linkedin.com/in/gauravsrivastava321/
  
 EmailID: gauravsriavastava2k17@gmail.com
